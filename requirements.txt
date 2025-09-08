@@ -1,0 +1,5 @@
+gradio>=3.40
+opencv-python-headless>=4.7
+numpy>=1.25
+Pillow>=10.0
+google-generativeai>=0.3.0
